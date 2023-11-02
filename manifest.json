@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Prefix GitHub for Jira",
+  "version": "1.0.0",
+  "description": "Prefix GitHub for Jira",
+  "author": "jmkamy552@gmail.com",
+  "content_scripts": [
+    {
+      "matches": ["https://github.atlassian.com/github/create-branch?*"],
+      "js": ["scripts/content.js"]
+    }
+  ]
+}
