@@ -5,9 +5,5 @@ JiraからGitHubブランチを作成した時にPrefixが自動でつくよう�
 
 
 # 使い方
-
-1. git clone する
-2. chrome://extensions/ のデベロッパーモードをONにする
-3. 「パッケージ化されていない拡張機能を読み込む」でcloneしたフォルダを追加する
-
+https://chrome.google.com/webstore/detail/prefix-github-for-jira/mlmajlejgbgcdonddkiahknjcknafgkd?hl=ja
 
